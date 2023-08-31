@@ -39,7 +39,7 @@ The analysis is divided into the following steps:
 4. Visualizing Cryptocurrencies Results
 
 The details of which are detailed in the Jupyter Notebook.
-All code is written in *Visual Studio Code* and *Jupyter Notebook* using *Python 3.7*.
+All code is written in *Visual Studio Code* and *Jupyter Notebook* using *Python 3.11*.
 
 Coding Soundtrack for this week's challenge was Volumes' album, [Different Animals](https://www.youtube.com/playlist?list=PLsBWlr67U5Nsj4HZkho9LaMXnO2KDnc8n).
 
